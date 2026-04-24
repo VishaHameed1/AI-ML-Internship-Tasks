@@ -1,0 +1,68 @@
+# ============================================
+# AI/ML INTERNSHIP TASKS - REQUIREMENTS
+# Complete dependencies for all 6 tasks
+# ============================================
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# ============================================
+# TASK 2: Stock Price Prediction
+# ============================================
+yfinance>=0.2.0
+
+# ============================================
+# TASK 3: Heart Disease Prediction
+# ============================================
+# urllib3 already included above
+
+# ============================================
+# TASK 4: Health Query Chatbot (API based)
+# ============================================
+requests>=2.31.0
+
+# ============================================
+# TASK 5: Mental Health Support Chatbot
+# ============================================
+transformers>=4.35.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+accelerate>=0.24.0
+
+# ============================================
+# TASK 6: House Price Prediction
+# ============================================
+# Already covered by scikit-learn
+
+# ============================================
+# Jupyter Notebook Support
+# ============================================
+jupyter>=1.0.0
+ipykernel>=6.19.0
+nbformat>=5.9.0
+
+# ============================================
+# Data Processing & Utilities
+# ============================================
+python-dateutil>=2.8.2
+pytz>=2022.0
+tqdm>=4.66.0
+
+# ============================================
+# Task 4 & 5: Additional Dependencies
+# ============================================
+urllib3>=1.26.0
+certifi>=2023.7.22
+
+# ============================================
+# Optional but recommended
+# ============================================
+streamlit>=1.28.0  # For deploying chatbots (Task 4 & 5)
